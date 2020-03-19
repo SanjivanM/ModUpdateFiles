@@ -1,0 +1,10 @@
+{
+	"homepage": "https://sites.google.com/view/sm84ce-stuff/minecraft-mods/",
+	"promos": {
+		"1.12.2-latest": "1.0",
+		"1.12.2-recommended": "1.0"
+	},
+	"1.12.2": {
+		"1.0": "Initial Release"
+	}
+}
