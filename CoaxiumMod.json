@@ -1,0 +1,14 @@
+{
+	"homepage": "https://sites.google.com/view/sm84ce-stuff/minecraft-mods/coaxium-mod-1-12-2",
+	"promos": {
+		"1.12.2-latest": "1.10",
+		"1.12.2-recommended": "1.9"
+	},
+	"1.12.2": {
+		"1.10": "BETA VERSION",
+		"1.9": "Added Carbon Fiber Block Cutting Blade, and related recipes",
+		"1.8": "Fixed some recipes, removed duplicates.  Updated Cesium Rod stats",
+		"1.7": "Added auto Update checking, OreDict integration.  Linked to my homepage",
+		"1.6": "Initial version that actually has a JAR file.  My first IC2 Addon!"
+	}
+}
