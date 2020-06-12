@@ -1,11 +1,12 @@
 {
 	"homepage": "https://sites.google.com/view/sm84ce-stuff/minecraft-mods/",
 	"promos": {
-		"1.12.2-latest": "1.1",
-		"1.12.2-recommended": "1.1"
+		"1.12.2-latest": "1.2",
+		"1.12.2-recommended": "1.2"
 	},
 	"1.12.2": {
 		"1.0": "Initial Release",
-		"1.1": "Compatibility Immersive Engineering and JAOPCA."
+		"1.1": "Compatibility between Immersive Engineering and JAOPCA.",
+		"1.2": "Compatibility between Immersive Engineering and IC2."
 	}
 }
