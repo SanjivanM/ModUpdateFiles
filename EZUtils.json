@@ -1,13 +1,15 @@
 {
 	"homepage": "https://sites.google.com/view/sm84ce-stuff/minecraft-mods/",
 	"promos": {
-		"1.12.2-latest": "1.3",
-		"1.12.2-recommended": "1.3"
+		"1.12.2-latest": "1.3.2",
+		"1.12.2-recommended": "1.3.2"
 	},
 	"1.12.2": {
 		"1.0": "Initial Release",
 		"1.1": "Compatibility between Immersive Engineering and JAOPCA.",
 		"1.2": "Compatibility between Immersive Engineering and IC2.",
-		"1.3": "Number blocks are now craftable; Number items added for 'compat' with Bibliocraft"
+		"1.3": "Number blocks are now craftable; Number items added for 'compat' with Bibliocraft",
+		"1.3.1": "IE Arc Furnace Custom recipes via my config, IC2 coal dust can be used in Coke Oven to get IE Coke dust (toggleable via config)",
+		"1.3.2": "IE Creosote Oil can be used in IE Biodiesel Generator/ Mining Drill, togglable in config."
 	}
 }
