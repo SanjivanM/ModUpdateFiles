@@ -2,7 +2,9 @@
 	"homepage": "https://sites.google.com/view/sm84ce-stuff/minecraft-mods/coaxium-mod-1-12-2",
 	"promos": {
 		"1.12.2-latest": "1.10",
-		"1.12.2-recommended": "1.10"
+		"1.12.2-recommended": "1.10",
+		"1.16.5-latest": "2.2",
+		"1.16.5-recommended": "2.2",
 	},
 	"1.12.2": {
 		"1.10": "Compatibility with MrCrayfish's furniture mod.",
@@ -10,5 +12,10 @@
 		"1.8": "Fixed some recipes, removed duplicates.  Updated Cesium Rod stats",
 		"1.7": "Added auto Update checking, OreDict integration.  Linked to my homepage",
 		"1.6": "Initial version that actually has a JAR file.  My first IC2 Addon!"
+	},
+	"1.16.5": {
+		"2.0": "Initial port to 1.16.5",
+		"2.1": "Added Coaxium Hammer",
+		"2.2": "Stairs 'n' Slabs!!"
 	}
 }
